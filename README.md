@@ -1,37 +1,45 @@
-Act as an expert technical writer and UI/UX designer. Create a highly professional, visually stunning, and recruiter-ready GitHub profile README (`README.md`) for me. 
+Act as an expert technical writer and UI/UX designer. Create a highly professional, visually stunning, minimalist dark-themed, and recruiter-ready GitHub profile README (`README.md`) for me, styled similarly to elite engineering portfolios.
 
-Here is my complete background to be incorporated creatively using Markdown badges, cards, stats, and clean layouts:
+Here is my complete and accurate background to be structured cleanly with dark aesthetic headings, comprehensive tech stacks, badges, and a professional narrative layout:
 
-### 1. Personal & Academic Profile
+### 1. Personal & Professional Header
 - **Name:** Muhammad Haris Shabbir
-- **Role:** Software Engineering Student (6th Semester) at the National University of Modern Languages (NUML), Islamabad.
-- **Campus Leadership:** PR Head (formerly a Security Member) of the National Software Engineering Society (NSES) at NUML, managing major campus events and admissions drives.
+- **Headline / Title:** Software Engineer | Full Stack Developer
+- **Campus Leadership:** PR Head (formerly a Security Member) of the National Software Engineering Society (NSES) at NUML, Islamabad.
+- **Social/Contact Badges:** GitHub, LinkedIn, Email
 
-### 2. Professional Experience & Internships
-- **Current Internship:** Web Developer at Hex Softwares (Remote)
-- **Previous Internship:** Software Quality Assurance (SQA) Intern at Devzz Tech Solutions (3-month tenure)
-- **Past Role:** Web Developer at Inotech (Built production-ready web applications using HTML, CSS, and Node.js)
-- **Freelance Experience:** Remote Data Researcher on Upwork (Sourced and structured extensive business directories for US-based construction and non-profit organizations in Google Sheets).
+### 2. About Me Section
+Write a compelling professional summary highlighting that I am a Software Engineering Student (6th Semester) at the National University of Modern Languages (NUML) and a Full Stack Developer. Emphasize my experience bridging full-stack web development, frontend architectures, backend APIs, and Software Quality Assurance (SQA). My work focuses on building practical, scalable web solutions, clean code practices, and robust application workflows.
 
-### 3. Major Projects
+### 3. Experience Timeline / Professional Journey
+- **Current Role:** Web Developer at Hex Softwares (Remote)
+- **Previous Internship:** Software Quality Assurance (SQS/SQA) Intern at Devzz Tech Solutions (3-month tenure focusing on manual testing, test cases, and quality workflows)
+- **Past Experience:** Web Developer at Inotech (Built and delivered production-ready web applications using HTML, CSS, and Node.js)
+- **Freelance Experience:** Remote Data Researcher on Upwork (Sourced, managed, and structured large-scale business directories for US-based construction and non-profit organizations in Google Sheets).
+
+### 4. What I Do / Core Competencies
+Group these into clean categorized blocks/badges:
+- **Full Stack Development:** Frontend Architecture, Backend Systems, REST APIs, UI/UX Implementation, Modern Web Apps
+- **Software Quality Assurance (SQA):** Manual Testing, Test Case Design & Execution, No-Code SQA Workflows, Quality Control
+- **Data & Operations:** Data Research, Research Pipelines, Structured Business Directories, Google Sheets Automation
+
+### 5. Comprehensive Technology Stack
+Organize all my tools and technologies using clean SVG/shields badges (matching a sleek dark theme):
+- **Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Web & Backend Frameworks:** React, Node.js, Express.js, Vercel
+- **QA & Testing Tools:** Manual Testing, Test Cases, No-Code SQA Tools
+- **Development & Workflow Tools:** Git, GitHub, VS Code, Google Sheets, Cursor Editor, Upwork
+
+### 6. Featured Work & Projects
 - **AI-Powered Resume Builder (Final Year Project):** An advanced web application featuring an integrated ATS calculator, built with React and Python.
-- **KreliMedia Website:** A custom, high-performance business website developed from scratch.
-- **Various Landing Pages & Web Apps:** Built utilizing modern development workflows, Git/GitHub, and modern web tech.
+- **KreliMedia Website:** A custom, high-performance business website developed from scratch with modern web standards.
+- **Landing Pages & Web Apps:** Production-ready web applications deployed efficiently via Vercel using modern development workflows and Cursor.
 
-### 4. Technical Skills & Tools
-- **Frontend & Web:** HTML5, CSS3, JavaScript, React, Node.js, Vercel, Cursor Editor
-- **Testing & SQA:** Manual Testing, No-Code SQA Workflows, Test Cases
-- **Data & Tools:** Git, GitHub, Google Sheets, Python
+### 7. GitHub Activity & Visual Stats
+Include beautifully styled, dark-themed GitHub stats components to maximize visual appeal:
+- Overall Contribution Stats Card (Total Contributions, Pull Requests, Issues)
+- Top Languages Card (showing usage distribution across my primary stacks)
+- Commit Streak & Activity Graph placeholders styled with high visual contrast.
 
-### Design Requirements for the README:
-- **Visual Appeal:** Use dynamic GitHub stats cards, tech stack icon badges (using shields.io or similar SVG badges grouped cleanly), and well-structured markdown tables or columns.
-- **Sections Needed:**
-  1. **Hero Header:** A catchy greeting with a clean layout or banner intro.
-  2. **About Me:** Short, engaging snapshot of who I am.
-  3. **Experience Timeline:** Highlighting my web development and SQA internships/roles.
-  4. **Featured Projects:** Showcasing the FYP (AI Resume Builder) and KreliMedia website with tech tags.
-  5. **Leadership & Community:** Highlighting my role as PR Head at NSES NUML.
-  6. **Tech Stack & Tools:** Visually appealing categorized badges.
-  7. **GitHub Stats:** Add standard activity/streak cards placeholders.
-
-Write clean, ready-to-copy markdown code inside a single code block so I can paste it right into my profile repository (`username/username`).
+---
+**Design Instructions:** Write clean, ready-to-copy markdown code inside a single code block. Ensure the layout uses minimalist lines, sharp typography hierarchy, dark mode compatible badges, and clear spacing just like an elite developer portfolio.
