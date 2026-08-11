@@ -1,6 +1,6 @@
-<div align="center" style="background: radial-gradient(circle at center, #0f172a 0%, #030712 100%); padding: 50px 30px; border-radius: 20px; border: 1px solid #1e293b; box-shadow: 0 20px 40px rgba(0,0,0,0.9);">
+<div align="center" style="background: radial-gradient(circle at center, #0f172a 0%, #030712 100%); padding: 50px 30px; border-radius: 20px; border: 1px solid #1e293b;">
 
-  <h1 style="color: #f8fafc; font-weight: 900; font-size: 2.5em; letter-spacing: -1px; text-shadow: 0 0 20px rgba(56, 189, 248, 0.5); margin-bottom: 10px;">✨ Welcome to My Digital Universe ✨</h1>
+  <h1 style="color: #f8fafc; font-weight: 900; font-size: 2.5em; letter-spacing: -1px; margin-bottom: 10px;">✨ Welcome to My Digital Universe ✨</h1>
   <p style="color: #94a3b8; font-size: 1.2em; font-weight: 500;"><em>Software Engineer • Full-Stack Developer • SQA Enthusiast • Creator</em></p>
   
   <p style="margin-top: 25px;">
@@ -130,11 +130,17 @@
 
 ---
 
-## 📊 <span style="color: #c084fc;">GitHub Analytics</span>
+## 📊 <span style="color: #c084fc;">GitHub Activity Overview</span>
 
-<div align="center" style="background: linear-gradient(135deg, #080d16 0%, #030712 100%); border: 1px solid #1e293b; border-radius: 16px; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARISSHABBIR7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080d16&title_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISSHABBIR7&layout=compact&theme=tokyonight&hide_border=true&bg_color=080d16&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
+<div align="center" style="background: linear-gradient(135deg, #080d16 0%, #030712 100%); border: 1px solid #1e293b; border-radius: 16px; padding: 25px;">
+  <p>
+    <img src="https://img.shields.io/badge/Profile_Views-Active-38bdf8?style=for-the-badge&logo=github&logoColor=white&color=0f172a" />
+    <img src="https://img.shields.io/badge/Repositories-Public-c084fc?style=for-the-badge&logo=git&logoColor=white&color=0f172a" />
+    <img src="https://img.shields.io/badge/Contributions-Consistent-34d399?style=for-the-badge&logo=codeforces&logoColor=white&color=0f172a" />
+  </p>
+  <p style="color: #94a3b8; margin-top: 10px; font-size: 0.95em;">
+    <em>Check out my repos above to see detailed source codes, commit histories, and active projects!</em>
+  </p>
 </div>
 
 ---
