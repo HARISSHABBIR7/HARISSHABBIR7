@@ -492,9 +492,7 @@ src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=
 ---
 
 <!-- ============================================================= -->
-
-<!--                    GITHUB                                     -->
-
+<!--                    GITHUB ACTIVITY                            -->
 <!-- ============================================================= -->
 
 <div align="center">
@@ -505,16 +503,32 @@ src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=
 
 <br><br>
 
+<!-- 🐍 CONTRIBUTION SNAKE -->
+
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HARISSHABBIR7&bg_color=030712&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=HARIS%20SHABBIR%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
+src="https://raw.githubusercontent.com/HARISSHABBIR7/HARISSHABBIR7/output/github-contribution-grid-snake-dark.svg"
 width="100%"
+alt="GitHub Contribution Snake"
 />
 
 <br><br>
 
+<!-- 📊 CONTRIBUTION ACTIVITY GRAPH -->
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=HARISSHABBIR7&bg_color=030712&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=HARIS%20SHABBIR%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
+width="100%"
+alt="GitHub Contribution Activity"
+/>
+
+<br><br>
+
+<!-- 🔥 GITHUB STREAK -->
+
 <img
 src="https://streak-stats.demolab.com/?user=HARISSHABBIR7&theme=transparent&hide_border=true&ring=38BDF8&fire=C084FC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&sideNums=F8FAFC&currStreakNum=F8FAFC"
 width="70%"
+alt="GitHub Streak"
 />
 
 </div>
