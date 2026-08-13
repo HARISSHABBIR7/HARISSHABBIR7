@@ -523,10 +523,12 @@ alt="GitHub Contribution Activity"
 
 <br><br>
 
+
+
 <!-- 🔥 GITHUB STREAK -->
 
 <img
-src="https://streak-stats.demolab.com/?user=HARISSHABBIR7&theme=transparent&hide_border=true&ring=38BDF8&fire=C084FC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&sideNums=F8FAFC&currStreakNum=F8FAFC"
+src="./profile/streak.svg"
 width="70%"
 alt="GitHub Streak"
 />
